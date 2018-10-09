@@ -8,3 +8,5 @@ Zip and gzip file reader is program that allows you compress text files into zip
 
     Python 2.7 or Python 3.4+
     Works on Linux, Windows, Mac OSX, BSD
+
+# How it works
